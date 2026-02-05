@@ -13,24 +13,17 @@ This repository contains the draft preprint (February 4, 2026) and supporting ma
 - **Philosophy**: Relational framework reconciling Einstein's definite outcomes with Bohr's complementarity via stochastic damping of vacuum fluctuations.
 - **Testable predictions**: Stochastic non-Gaussianity in CMB lensing/large-scale structure, growth rate tweaks.
 
-![Wave Function Collapse Illustration](https://upload.wikimedia.org/wikipedia/commons/0/0e/Collapsed-wave-function.svg)
-*Conceptual diagram of wave function collapse from superposition to definite state (Wikimedia Commons, public domain). The model extends this to cosmological vacuum suppression through staggered probabilistic collapses.*
-
-![Planck CMB Lensing Map](https://www.cosmos.esa.int/documents/387566/387622/Planck_2018_lensing_convergence.jpg)
-*Planck 2018 CMB lensing convergence map showing gravitational lensing effects (ESA/Planck Collaboration, public use). Future CMB lensing surveys may test the model's predicted stochastic non-Gaussianity signatures.*
-
 ### Contents
 - `main.tex` + supporting files: AASTeX7 LaTeX source for the draft.
 - `draft-feb-2026.pdf`: Compiled preprint.
 - `figures/`: Plots (w(z) ensemble average, δ_m in environments, f(z) growth rate).
-- `images/`: Supporting visuals for README (optional local copies).
 
-Python simulation code (stochastic background solver) is in private staging for now—contact if interested in sharing.
+Python simulation code (stochastic background solver) is in private staging for now - will share in future updates.
 
 ### Status
-Exploratory independent research project by Micah David Thornton (@MasterFarcey). Feedback, comments, or collaboration welcome via Issues or X.
+Exploratory independent research project by Micah David Thornton (@EddyCosmology). Feedback, comments, or collaboration welcome via Issues or X.
 
-If using/citing: Please reference the draft and this repo. arXiv upload forthcoming.
+If using/citing: Please reference the draft and this repo. Thank you and star if you like my work.
 
 **Keywords**: cosmology, dark energy, DESI DR2, evolving DE, stochastic collapse, vacuum suppression, objective collapse models, quintessence
 
