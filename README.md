@@ -27,5 +27,6 @@ If using/citing: Please reference the draft and this repo. Thank you and star if
 
 **Keywords**: cosmology, dark energy, DESI DR2, evolving DE, stochastic collapse, vacuum suppression, objective collapse models, quintessence
 
-Licensed under the MIT License (see LICENSE file).
+### License Information
+The preprint manuscript (PDF and LaTeX content) is additionally liscensed under Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/. Code and figures remain licensed under the MIT License (see LICENSE file).
 
