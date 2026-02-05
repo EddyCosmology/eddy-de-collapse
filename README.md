@@ -22,6 +22,6 @@ This repository contains the draft preprint (February 4, 2026) and supporting ma
 
 Python code in private staging.
 
-Exploratory independent research by Micah David Thornton (@MasterFarcey). Feedback welcome via Issues or X. arXiv forthcoming.
+Exploratory independent research by Micah David Thornton (@EddyCosmology). Feedback welcome via Issues or X. arXiv forthcoming.
 
 **Keywords**: cosmology, dark energy, DESI DR2, stochastic collapse, vacuum suppression, quintessence
