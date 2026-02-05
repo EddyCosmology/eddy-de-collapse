@@ -28,7 +28,7 @@ This repository contains the draft preprint (February 4, 2026) and supporting ma
 Python simulation code (stochastic background solver) is in private staging for now—contact if interested in sharing.
 
 ### Status
-Exploratory independent research project by Micah David Thornton (@MasterFarcey). Feedback, comments, or collaboration welcome via Issues or X.
+Exploratory independent research project by Micah David Thornton (@EddyCosmology). Feedback, comments, or collaboration welcome via Issues or X.
 
 If using/citing: Please reference the draft and this repo. arXiv upload forthcoming.
 
