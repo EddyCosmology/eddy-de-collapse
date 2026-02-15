@@ -16,7 +16,7 @@ This repository contains the draft preprint (February 4, 2026) and supporting ma
 ### Contents
 - `main.tex` + supporting files: AASTeX7 LaTeX source for the draft.
 - `draft-feb-2026.pdf`: Compiled preprint.
-
+- `Figures+PythonCode`: Figures from the paper with the Python code scripts that generated the plots.
 Python simulation code (stochastic background solver) is in private staging for now - will share in future updates.
 
 ### Status
