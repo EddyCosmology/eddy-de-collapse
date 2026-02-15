@@ -15,9 +15,8 @@ This repository contains the draft preprint (February 4, 2026) and supporting ma
 
 ### Contents
 - `main.tex` + supporting files: AASTeX7 LaTeX source for the draft.
-- `draft-feb-2026.pdf`: Compiled preprint.
-- `Figures+Python Code`: Figures from the paper with the Python code scripts that generated the plots.
-Python simulation code (stochastic background solver) is in private staging for now - will share in future updates.
+- `draft-feb-2026.pdf`: The latest compiled preprint.
+- `Figures+Python Code`: Figures from the paper with the Python simulation code that generated the plots.
 
 ### Status
 Exploratory independent research project by Micah David Thornton (@EddyCosmology). Feedback, comments, or collaboration welcome via Issues or X.
