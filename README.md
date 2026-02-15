@@ -16,7 +16,6 @@ This repository contains the draft preprint (February 4, 2026) and supporting ma
 ### Contents
 - `main.tex` + supporting files: AASTeX7 LaTeX source for the draft.
 - `draft-feb-2026.pdf`: Compiled preprint.
-- `figures/`: Plots (w(z) ensemble average, δ_m in environments, f(z) growth rate).
 
 Python simulation code (stochastic background solver) is in private staging for now - will share in future updates.
 
