@@ -15,7 +15,7 @@ This repository contains the draft preprint (February 4, 2026) and supporting ma
 
 ### Contents
 - `main.tex` + supporting files: AASTeX7 LaTeX source for the draft.
-- `draft-feb-2026.pdf`: The latest compiled preprint.
+- `MDThornton_EvolvingDarkEnergy_DESI_Draft_Feb2026.pdf`: The latest compiled preprint.
 - `Figures+Python Code`: Figures from the paper with the Python simulation code that generated the plots.
 
 ### Status
