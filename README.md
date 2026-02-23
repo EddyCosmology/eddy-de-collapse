@@ -19,7 +19,7 @@ This repository contains the draft preprint (February 4, 2026) and supporting ma
 - `Figures+Python Code`: Figures from the paper with the Python simulation code that generated the plots.
 
 ### Status
-Exploratory independent research project by Micah David Thornton (@EddyCosmology). A companion work, "Noise-Induced Transitions in Quintessence-Like Dark Energy" (Thornton,2026), is being developed in a separate repository at https://github.com/eddycosmology/noise-induced-quintessence . The companion preprint reports on some interesting findings uncovered during the sensitivity testing of parameters for the model.
+Exploratory independent research project by Micah David Thornton (@EddyCosmology). A companion work, "Noise-Induced Transitions in Quintessence-Like Dark Energy" (Thornton,2026b), is being developed in a separate repository at https://github.com/eddycosmology/noise-induced-quintessence . The companion preprint reports on some interesting findings uncovered during the sensitivity testing of parameters for the model.
 
 Feedback, comments, or collaboration welcome via Issues or X. 
 If using/citing: Please reference the draft and this repo. Thank you and star if you like my work.
